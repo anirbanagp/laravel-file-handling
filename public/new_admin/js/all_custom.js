@@ -1,0 +1,1 @@
+<script src="{{asset('new_admin/js/custom.js')}}"></script>

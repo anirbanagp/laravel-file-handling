@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'Wallet' => 'Wallet',
+  'Balance' => 'Balance',
+  'Select Language' => 'Select Language',
+  'User Profile' => 'User Profile',
+  'Bet Slip' => 'Bet Slip',
+  'Minimum Stake Amount' => 'Minimum Stake Amount',
+  'Maximum Stake Amount' => 'Maximum Stake Amount',
+  'Maximum Payout' => 'Maximum Payout',
+  'Maximum Number of Bets' => 'Maximum Number of Bets',
+  'Single' => 'Single',
+  'Combo' => 'Combo',
+  'No bet in the slip' => 'No bet in the slip',
+  'Home' => 'Home',
+  'support' => 'support',
+  'terms-and-conditions' => 'terms-and-conditions',
+  'faq' => 'faq',
+  'security' => 'security',
+  'privacy-policy' => 'privacy-policy',
+  'Error!' => 'Error!',
+  'Success!' => 'Success!',
+  'Attention!' => 'Attention!',
+);
